@@ -12,13 +12,13 @@ GitHub profile :- https://github.com/RamG222 Email :- shriramgupta8141@gmail.com
 ## Screenshot
 Homepage
 
-![Quick Quiz Game](screenshots\Quick-Quiz-Homepage.png)
+![Quick Quiz Game](Quick-Quiz-Homepage.png)
 
 Playing Game Screen Page
 
-![Quick Quiz Game](screenshots\Quick-Quiz-Play.png)
+![Quick Quiz Game](Quick-Quiz-Play.png)
 
 Wrong Answer Selected (red background added) 
 
-![Quick Quiz Game](screenshots\Quick-Quiz-Wrong.png)
+![Quick Quiz Game](Quick-Quiz-Wrong.png)
 
